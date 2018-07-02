@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "438314456224",
+    "firebase_url": "https://picassojovanni.firebaseio.com",
+    "project_id": "picassojovanni",
+    "storage_bucket": "picassojovanni.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438314456224:android:3a11633177d2d476",
+        "android_client_info": {
+          "package_name": "com.example.ilchu.picassojovanni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438314456224-q88es2bo6fr1s5luobk9qnufdjgmu48a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ilchu.picassojovanni",
+            "certificate_hash": "7fdf8705c5551fffebf28df3975fca5c1bb1f566"
+          }
+        },
+        {
+          "client_id": "438314456224-cdh47qfprnjjftprifgu00c3k177da29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5StbjyMm--JCr3r2rStAt0QNJ6sTapHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438314456224-cdh47qfprnjjftprifgu00c3k177da29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
